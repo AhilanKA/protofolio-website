@@ -61,7 +61,7 @@ h1{
 }
 .common-btn{
     
-    background:pink;
+    background:blue;
     outline: none;
    font-weight: bold;
     cursor: pointer;
@@ -152,7 +152,7 @@ section{
 
 .btn{
     padding:.7rem 3rem;
-    background:pink;
+    background:blue;
 
     cursor: pointer;
     margin-top: 1rem;
@@ -373,7 +373,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    border: 2px solid pink; 
+    border: 2px solid blue; 
 }
 
 .contact .row .content{
@@ -400,7 +400,7 @@ header .navbar ul li a:hover{
     text-transform: none;
     font-size: 1.7rem;
     width:100%;
-    border: 2px solid pink; 
+    border: 2px solid blue; 
      border-radius: 2rem;
 }
 
